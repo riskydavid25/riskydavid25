@@ -57,10 +57,10 @@
 
 <p align="left">
   <a href="https://github.com/riskydavid25/Waitress-Call-System" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riskydavid25&repo=realtime-dashboard&theme=tokyonight" />
+    <img align="center" src="https://github.com/riskydavid25/Waitress-Call-System&theme=tokyonight" />
   </a>
   <a href="https://github.com/riskydavid25/Project-Internet-of-Things" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riskydavid25&repo=esp32-call-system&theme=tokyonight" />
+    <img align="center" src="https://github.com/riskydavid25/Project-Internet-of-Things&theme=tokyonight" />
   </a>
 </p>
 
