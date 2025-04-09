@@ -18,7 +18,7 @@
 <!-- About Section -->
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **AI-powered IoT systems**
+- 🔭 I’m currently working on **NOC Surveillance at PT Palapa Timur Telematika**
 - 🌱 I’m diving deeper into **Edge AI**, **MQTT**, and **ESP32**
 - 💬 Ask me about **Flask**, **Python**, or **real-time dashboarding**
 - 📫 Reach me via Instagram, LinkedIn, or Email!
@@ -34,34 +34,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riskydavid25&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riskydavid25&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskydavid25&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-<!-- Pinned Projects -->
-### 🚀 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/riskydavid25/Waitress-Call-System" target="_blank">
-    <img align="center" src="https://github.com/riskydavid25/Waitress-Call-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/riskydavid25/Project-Internet-of-Things" target="_blank">
-    <img align="center" src="https://github.com/riskydavid25/Project-Internet-of-Things&theme=tokyonight" />
-  </a>
 </p>
 
 ---
